@@ -14,14 +14,13 @@ enthusiastic</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-brisch-cibolli-27a4b0234/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="lin" height="37" width="38" /></a>
 <a href="https://www.instagram.com/danielbrisch_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="ffff" height="35" width="38" /></a> 
-
 <a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="40" /></a>
 </p>
-<p align="center"><img src="/img/1.gif" height="240"  width="300"><p></p></p></p>
+<p align="center"><img src="/img/terminal.gif" height="100"  width="700"><p></p></p></p>
 <h5 align="center">Programming Languages</h5>
 
-<table align= "center">
+<!-- <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
       <a href="https://www.cprogramming.com/" >
@@ -183,6 +182,22 @@ enthusiastic</h3>
   </tr>
 </table>
 </br>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-barbosa&show_icons=true&locale=en&layout=compact" alt="rafael-barbosa" /></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rafael-barbosa&show_icons=true&locale=en" alt="rafael-barbosa" /></p> 
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBrisch&bg_color=000000&color=ff3c41&line=ffffff&point=ffffff&area=true&hide_border=true" alt="rafael-barbosa" /></p> 
+
+
+
+<!--SVG BOTTOM-->
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="rafael-barbosa" /></p>  --> 
 
 
 
