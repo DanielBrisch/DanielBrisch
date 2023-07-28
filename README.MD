@@ -18,8 +18,3 @@ enthusiastic</h3>
 <a href="https://discord.gg/kkQvRhg" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="gmail" height="23" width="35" /></a>
 </p> 
 
-
-
-
-aaaaa
-
