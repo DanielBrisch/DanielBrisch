@@ -6,7 +6,7 @@ enthusiastic</h3>
 #### I am a web/mobile developer, currently studying Information Systems at Unimater. I am currently in the fourth semester out of the eight offered by the college. My work involves using technologies like Spring Boot, Java, JSF, Hibernate, and JPA, PrimeFaces, Maven, native Android, Gradle, Flutter, Docker, and Angular. I am passionate about technology and knowledge, constantly seeking to evolve my development skills and learn new technologies.
 
 <p  align="center">
-<img src="/img/matrix.gif" height="25" width="700">             
+<img src="/img/terminal.gif" height="25" width="700">             
 <br>
 
 <!--Contatos-->
@@ -22,10 +22,8 @@ enthusiastic</h3>
 
 
 
-
-
 <p  align="center">
-<img src="/img/matrix.gif" height="25" width="700">             
+<img src="/img/terminal.gif" height="25" width="700">             
 <br>
 
 
