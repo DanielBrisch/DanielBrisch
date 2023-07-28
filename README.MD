@@ -25,7 +25,7 @@ enthusiastic</h3>
 
 
 <p  align="center">
-<img src="/DanielBrisch/img/matrix.gif" height="25" width="700">             
+<img src="/img/matrix.gif" height="25" width="700">             
 <br>
 
 
