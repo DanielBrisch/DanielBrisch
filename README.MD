@@ -17,4 +17,4 @@ enthusiastic</h3>
 <a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="40" /></a>
 </p>
-<p align="center"> <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="175" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p> 
+<p align="center"> <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="175" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p></p></p> 
