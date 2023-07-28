@@ -5,9 +5,9 @@ enthusiastic</h3>
 ## About Me
 #### I am a web/mobile developer, currently studying Information Systems at Unimater. I am currently in the fourth semester out of the eight offered by the college. My work involves using technologies like Spring Boot, Java, JSF, Hibernate, and JPA, PrimeFaces, Maven, native Android, Gradle, Flutter, Docker, and Angular. I am passionate about technology and knowledge, constantly seeking to evolve my development skills and learn new technologies.
 
-<p  align="center">
+<!-- <p  align="center">
 <img src="/img/terminal.gif" height="25" width="700">             
-<br>
+<br> -->
 
 <!--Contatos-->
 <h3 align="center">Connect with me:</h3>
@@ -17,14 +17,14 @@ enthusiastic</h3>
 <a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="40" /></a>
 </p>
-<p align="center"><img src="/img/giphy.gif" height="200"  width="200"><p></p></p></p>
+<p align="center"><img src="/img/1.gif" height="240"  width="300"><p></p></p></p>
 
 
 
 
-<p  align="center">
+<!-- <p  align="center">
 <img src="/img/terminal.gif" height="25" width="700">             
-<br>
+<br> -->
 
 
 
