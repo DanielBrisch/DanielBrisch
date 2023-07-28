@@ -12,9 +12,9 @@ enthusiastic</h3>
 <!--Contatos-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-brisch-cibolli-27a4b0234/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="lin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-brisch-cibolli-27a4b0234/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="lin" height="35" width="38" /></a>
 <a href="https://www.instagram.com/danielbrisch_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="ffff" height="35" width="38" /></a> 
-<a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="30" width="30" /></a>
-<a href="https://discord.gg/kkQvRhg" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="39" width="38" /></a>
-</p> 
-
+<a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="40" /></a>
+</p>
+<p align="center"> <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="175" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p> 
