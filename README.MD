@@ -6,7 +6,7 @@ enthusiastic</h3>
 #### I am a web/mobile developer, currently studying Information Systems at Unimater. I am currently in the fourth semester out of the eight offered by the college. My work involves using technologies like Spring Boot, Java, JSF, Hibernate, and JPA, PrimeFaces, Maven, native Android, Gradle, Flutter, Docker, and Angular. I am passionate about technology and knowledge, constantly seeking to evolve my development skills and learn new technologies.
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img src="/DanielBrisch/img/matrix.gif" height="25" width="700">             
 <br>
 
 <!--Contatos-->
@@ -17,4 +17,18 @@ enthusiastic</h3>
 <a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="40" /></a>
 </p>
-<p align="center"><img src="/img/giphy.gif" height="160"  width="180"><p></p></p></p> 
+<p align="center"><img src="/img/giphy.gif" height="200"  width="200"><p></p></p></p>
+
+
+
+
+
+
+<p  align="center">
+<img src="/DanielBrisch/img/matrix.gif" height="25" width="700">             
+<br>
+
+
+
+
+
