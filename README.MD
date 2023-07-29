@@ -3,8 +3,7 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-![snake gif](https://github.com/DanielBrisch/DanielBrisch/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrisch&theme=midnight-purple&hide_border=false" heigth="" width="425"/>
