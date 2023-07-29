@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+![snake gif](https://github.com/DanielBrisch/DanielBrisch/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="center">
