@@ -3,26 +3,13 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-## About Me
-#### I am a web/mobile developer, currently studying Information Systems at Unimater. I am currently in the fourth semester out of the eight offered by the college. My work involves using technologies like Spring Boot, Java, JSF, Hibernate, and JPA, PrimeFaces, Maven, native Android, Gradle, Flutter, Docker, and Angular. I am passionate about technology and knowledge, constantly seeking to evolve my development skills and learn new technologies.
-
-
-<!--Contatos-->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-brisch-cibolli-27a4b0234/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="lin" height="37" width="38" /></a>
-<a href="https://www.instagram.com/danielbrisch_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="ffff" height="35" width="38" /></a> 
-<a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="" /></a>
-</p>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrisch&theme=midnight-purple&hide_border=false" heigth="" width="425"/>
 <img src="https://github-readme-stats.vercel.app/api?username=DanielBrisch&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" heigth="" width="400"/>
 <p>
-
-
 
 <table align= "center">
     <tr><h5 align="center">Technologies</h5>
@@ -137,6 +124,18 @@ enthusiastic</h3>
         </td>
     </tr>
 </table>
+
+<!--Contatos-->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-brisch-cibolli-27a4b0234/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138130.png" alt="lin" height="37" width="38" /></a>
+<a href="https://www.instagram.com/danielbrisch_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4138/4138124.png" alt="ffff" height="35" width="38" /></a> 
+<a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="" /></a>
+</p>
+
+
+
 
 
 
