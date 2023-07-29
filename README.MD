@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-![snake gif](https://github.com/DanielBrisch/DanielBrisch/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DanielBrisch/DanielBrisch/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
