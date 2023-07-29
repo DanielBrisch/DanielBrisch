@@ -3,7 +3,11 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrisch&theme=midnight-purple&hide_border=false" heigth="" width="425"/>
@@ -132,15 +136,3 @@ enthusiastic</h3>
 <a href="https://discord.gg/3dBFf5DHW4" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="discord" height="" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5546999347534" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/819/299/non_2x/whatsapp-icon-transparent-free-png.png" alt="whats" height="40" width="" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
