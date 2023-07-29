@@ -3,7 +3,11 @@
 <h3 align="center">👨‍💻 Developer | 🎓 information systems student | 🤖 development and technology
 enthusiastic</h3>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/DanielBrisch/DanielBrisch/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DanielBrisch/DanielBrisch/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielBrisch&theme=midnight-purple&hide_border=false" heigth="" width="425"/>
