@@ -1,17 +1,9 @@
-<p align="start">
-  <h3 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開発者</h3>
-</p>
-<div style="display: flex">
-  <img src="./pertinente.jpg" style="width: 320px; height: auto;" />
-  <div style="width: 100px;">
-  </div>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開発者</h3>
+<div style="display: flex;">
+  <img src="./pertinente.jpg" alt="Imagem Pertinente" style="width: 320px; height: auto; margin-right: 20px;" />
   <div>
-    <p>
-        プログラミングが好きです。私はテクノロジー コンテンツに関して幅広い知識を持っていますが、現在はモバイル開発に携わっており、モバイルと機械語の両方、人工知能、データ分析、自動化について知識を深めたいと考えています。
-    </p>
-     <h1>
-       メインスタック
-    </h1>
+    <p>プログラミングが好きです。私はテクノロジー コンテンツに関して幅広い知識を持っていますが、現在はモバイル開発に携わっており、モバイルと機械語の両方、人工知能、データ分析、自動化について知識を深めたいと考えています。</p>
+    <h1>メインスタック</h1>
     <div style="display: flex;">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" style="width: 35px;">
         <div style="width: 10px;">
@@ -130,5 +122,7 @@
         </div>
     </div>
     </div>
+  </div>
+</div>
   </div>
 </div>
