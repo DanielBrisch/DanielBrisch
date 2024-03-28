@@ -1,10 +1,16 @@
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開発者</h3>
-<div style="display: flex;">
-  <img src="./pertinente.jpg" alt="Imagem Pertinente" style="width: 320px; height: auto; margin-right: 20px;" />
-  <div>
-    <p>プログラミングが好きです。私はテクノロジー コンテンツに関して幅広い知識を持っていますが、現在はモバイル開発に携わっており、モバイルと機械語の両方、人工知能、データ分析、自動化について知識を深めたいと考えています。</p>
-    <h1>メインスタック</h1>
-    <div style="display: flex;">
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;開発者 
+<div style="display: flex;"> 
+    <img src="./pertinente.jpg" width="320px" /> 
+    <div style="width: 100px;">
+    </div> 
+
+<div style="display: flex; flex-direction: column;">
+
+#### プログラミングが好きです。私はテクノロジー コンテンツに関して幅広い知識を持っており、現在はモバイル開発に携わっており、モバイル言語とマシン言語の両方、人工知能、データ分析、自動化に関する知識を広げたいと考えています
+
+# メインスタック
+
+ <div style="display: flex;">
         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" style="width: 35px;">
         <div style="width: 10px;">
         </div>
@@ -121,8 +127,9 @@
         </div>
         </div>
     </div>
-    </div>
-  </div>
+
 </div>
-  </div>
 </div>
+
+
+
