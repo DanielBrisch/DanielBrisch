@@ -8,6 +8,9 @@
       </a>
    </td>
  </tr>
+ <tr>
+   ![counter](https://count.getloli.com/get/@DanielBrisch?theme=rule34)
+ </tr>
 </table>
 
 
