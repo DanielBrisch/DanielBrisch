@@ -10,14 +10,6 @@
  </tr>
 </table>
 
-<p align="center">
-  <a href="#"><img src="https://count.getloli.com/get/@DanielBrisch?theme=rule34"/></a>
-  <a href="#"><img src="https://66.media.tumblr.com/0e55c159e9c282a26b9cfde74dd89b01/tumblr_mjz2hgtqBz1rfjowdo1_500.gif" width="15%"/></a>
-</p>
-
-
-
-
 
 
 
