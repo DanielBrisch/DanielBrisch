@@ -1,9 +1,13 @@
 <h2 align="center">開発者</h2> 
-<h1 align="center">山の頂上へ行く道は一つではないことを理解しなければなりません</h1>
-   
- 
 
-<div align="center">
+<p align="center">
+    <img src="img/omni-man.gif" width="250" height="200"></img>
+</p>   
+
+<h2></h2>
+
+ 
+<div style="display: flex">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanielBrisch&theme=highcontrast&type=png)](https://git.io/streak-stats)
 
