@@ -1,4 +1,4 @@
-<h2 align="center">開発者</h2> 
+<h2 align="center">ただ学ぶのが好き、それだけです</h2> 
 
 <p align="center">
     <span>
