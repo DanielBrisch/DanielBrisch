@@ -1,9 +1,9 @@
-<h2 align="center">開発者</h2> 
+<h2 align="center">改善しようとしている</h2> 
 
 <p align="center">
-    <span>
-        <img src="./img/woman_anime.jpg"/>
-    </span>
+        <span>
+            <img src="./img/kaneki.gif"/>
+        </span>
 </p>
 
 
