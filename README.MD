@@ -2,7 +2,7 @@
 
 <p align="center">
         <span>
-            <img src="./img/kaneki.gif"/>
+            <img src="./img/gif.gif"/>
         </span>
 </p>
 
