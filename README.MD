@@ -1,4 +1,4 @@
-<h2 align="center">改善しようとしている</h2> 
+<h2 align="center">пытаюсь улучшить</h2> 
 
 <p align="center">
         <span>
