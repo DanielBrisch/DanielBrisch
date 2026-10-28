@@ -1,3 +1,3 @@
-<h2 align="center">你好</h2>
+<hr>
 
-<div align="center"><img src="./img/w/pinterest.gif" width="100%"></div>
+<h2 align="center">你好</h2>
